@@ -61,7 +61,7 @@ class HomePage extends StatelessWidget {
                 _buildPremiumButton(),
                 const SizedBox(height: 12),
                 Text(
-                  'Obtenha recursos premium por apenas R$ 299,90',
+                  'Obtenha recursos premium por apenas R\$ 299,90',
                   style: GoogleFonts.roboto(
                     fontSize: 14,
                     color: Colors.white.withOpacity(0.6),
